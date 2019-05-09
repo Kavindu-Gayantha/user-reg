@@ -131,7 +131,7 @@ public class User_registration_form_login extends javax.swing.JFrame {
 
     private void formPropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_formPropertyChange
         // TODO add your handling code here:
-        JFram
+        
     }//GEN-LAST:event_formPropertyChange
 
     /**
